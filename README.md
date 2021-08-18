@@ -14,4 +14,7 @@ Run the project
 go run app.go
 ```
 
+Author
+```bash
 syarif m hidayatullah
+```
