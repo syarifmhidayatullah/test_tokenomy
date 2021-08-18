@@ -13,3 +13,5 @@ Run the project
 ```bash
 go run app.go
 ```
+
+syarif m hidayatullah
